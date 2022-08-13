@@ -1,0 +1,10 @@
+Road map belajar Frontend
+1.HTML
+2.CSS
+3.CSS Preprocessor SASS/LESS
+4.Bootstrap / Tailwind
+5.Javascript Basic
+6.Javascript DOM
+7.Javascript Advance
+8.Framework (React/Vue)
+9.NodeJS dan NPM
