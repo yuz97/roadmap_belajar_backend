@@ -1,0 +1,28 @@
+Road Map Belajar Backend
+
+PHP
+1.PHP Basic
+2.PHP OOP
+3.Framework (Laravel / Codeigniter)
+4.Belajar Rest APi
+5.Microservices
+
+Java
+1.Java Basic
+2.Java OOP
+3.Java Standar Class
+4.Java Generic
+5.Java Collection
+6.Java Lombok
+7.Java Spring Boot
+
+Golang
+1.Golang Basic
+2.Framework (Gin)
+3.Golang Goroutines
+
+Javascript
+1.Javascript Basic
+2.Javascript DOM
+3.Javascript Advance
+4.NodeJS & Express
